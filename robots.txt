@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ironflux88.github.io/baltycka/sitemap.xml
